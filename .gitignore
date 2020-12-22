@@ -1,0 +1,5 @@
+node_modules
+.env
+.pass
+*.retry
+.DS_Store
